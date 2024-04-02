@@ -2913,6 +2913,30 @@
             "rid": "win"
           }
         }
+      },
+      "UW.AspNetCore.Authentication.Shibboleth/7.0.0": {
+        "type": "package",
+        "dependencies": {
+          "UW.Shibboleth": "6.0.2"
+        },
+        "compile": {
+          "lib/net6.0/UW.AspNetCore.Authentication.Shibboleth.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/UW.AspNetCore.Authentication.Shibboleth.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "UW.Shibboleth/6.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/UW.Shibboleth.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/UW.Shibboleth.dll": {}
+        }
       }
     }
   },
@@ -8272,6 +8296,34 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "UW.AspNetCore.Authentication.Shibboleth/7.0.0": {
+      "sha512": "cmKEax/oiyft3AZvA/ZScW7KFFWp7Z2Vr3Hjcx7wG1LuR+XzROzZ0cU1sy9EOR274+0Jrqd0EOxAd5i92dtA+A==",
+      "type": "package",
+      "path": "uw.aspnetcore.authentication.shibboleth/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/UW.AspNetCore.Authentication.Shibboleth.dll",
+        "lib/net6.0/UW.AspNetCore.Authentication.Shibboleth.dll",
+        "lib/netcoreapp3.1/UW.AspNetCore.Authentication.Shibboleth.dll",
+        "license.txt",
+        "uw.aspnetcore.authentication.shibboleth.7.0.0.nupkg.sha512",
+        "uw.aspnetcore.authentication.shibboleth.nuspec"
+      ]
+    },
+    "UW.Shibboleth/6.0.2": {
+      "sha512": "qXS9Ab5Es/XDktp2gMrvi0VcTVn2wXV1rcSQxC1icyQsBshdI/ySFd/5KY/0KZ3vcR/xm3KYmNnWPkdtvS9cmQ==",
+      "type": "package",
+      "path": "uw.shibboleth/6.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/UW.Shibboleth.dll",
+        "license.txt",
+        "uw.shibboleth.6.0.2.nupkg.sha512",
+        "uw.shibboleth.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -8281,7 +8333,8 @@
       "Microsoft.AspNetCore.Identity.UI >= 8.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.3",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.2"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.2",
+      "UW.AspNetCore.Authentication.Shibboleth >= 7.0.0"
     ]
   },
   "packageFolders": {
@@ -8291,11 +8344,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matěj Lukáč\\Desktop\\school\\Projekt\\test\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\Matěj Lukáč\\Desktop\\school\\Projekt\\Projekt\\test\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\Matěj Lukáč\\Desktop\\school\\Projekt\\test\\test\\test.csproj",
+      "projectPath": "C:\\Users\\Matěj Lukáč\\Desktop\\school\\Projekt\\Projekt\\test\\test\\test.csproj",
       "packagesPath": "C:\\Users\\Matěj Lukáč\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matěj Lukáč\\Desktop\\school\\Projekt\\test\\test\\obj\\",
+      "outputPath": "C:\\Users\\Matěj Lukáč\\Desktop\\school\\Projekt\\Projekt\\test\\test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8356,6 +8409,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[8.0.2, )"
+          },
+          "UW.AspNetCore.Authentication.Shibboleth": {
+            "target": "Package",
+            "version": "[7.0.0, )"
           }
         },
         "imports": [

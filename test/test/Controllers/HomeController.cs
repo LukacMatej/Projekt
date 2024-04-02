@@ -1,6 +1,9 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Security.Claims;
 using test.Models;
+using UW.Shibboleth;
 
 namespace test.Controllers
 {
@@ -13,8 +16,15 @@ namespace test.Controllers
             _logger = logger;
         }
 
+        //[Authorize]
         public IActionResult Index()
         {
+            //var vm = new HomeViewModel();
+            //var ident = (ClaimsIdentity)HttpContext.User.Identity;
+            //
+            //vm.NetID = ident.FindFirst(UWShibbolethClaimsType.UID).Value;
+            //vm.wiscEduPVI = ident.FindFirst(UWShibbolethClaimsType.PVI).Value;
+            //
             return View();
         }
 

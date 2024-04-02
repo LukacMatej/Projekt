@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\",
+  "WorkspaceRootPath": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\test\\test\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\test\\test\\views\\shared\\_loginlecturer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\views\\shared\\_loginlecturer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\test\\test\\models\\lectures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\models\\lectures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\test\\test\\controllers\\lecturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\controllers\\lecturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\test\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\test\\test\\views\\lectures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\views\\lectures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\projekt\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\projekt\\test\\test\\controllers\\lecturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\controllers\\lecturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\test\\test\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\projekt\\test\\test\\models\\lectures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\models\\lectures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\projekt\\test\\test\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\projekt\\test\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\projekt\\test\\test\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\projekt\\test\\test\\views\\shared\\_loginlecturer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\views\\shared\\_loginlecturer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\projekt\\test\\test\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\projekt\\projekt\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E3C7A5-9D1F-4634-B1BF-66D646FF9619}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,112 +50,120 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "test\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "test\\Controllers\\HomeController.cs",
+              "DocumentIndex": 6,
+              "Title": "_LoginLecturer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Views\\Shared\\_LoginLecturer.cshtml",
+              "RelativeDocumentMoniker": "test\\Views\\Shared\\_LoginLecturer.cshtml",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Views\\Shared\\_LoginLecturer.cshtml",
+              "RelativeToolTip": "test\\Views\\Shared\\_LoginLecturer.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T21:23:48.348Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T19:43:35.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "test\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "test\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T19:43:14.31Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Lectures.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Models\\Lectures.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Models\\Lectures.cs",
               "RelativeDocumentMoniker": "test\\Models\\Lectures.cs",
-              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Models\\Lectures.cs",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Models\\Lectures.cs",
               "RelativeToolTip": "test\\Models\\Lectures.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T21:23:06.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Views\\Lectures\\Index.cshtml",
-              "RelativeDocumentMoniker": "test\\Views\\Lectures\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Views\\Lectures\\Index.cshtml",
-              "RelativeToolTip": "test\\Views\\Lectures\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T21:05:08.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_LoginLecturer.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Views\\Shared\\_LoginLecturer.cshtml",
-              "RelativeDocumentMoniker": "test\\Views\\Shared\\_LoginLecturer.cshtml",
-              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Views\\Shared\\_LoginLecturer.cshtml",
-              "RelativeToolTip": "test\\Views\\Shared\\_LoginLecturer.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T20:57:23.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "test\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "test\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T20:55:06.961Z",
+              "WhenOpened": "2024-03-21T19:36:55.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "test\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "test\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:36:51.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "test\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "test\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T20:30:09.861Z"
+              "WhenOpened": "2024-03-21T19:26:33.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LecturesController.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Controllers\\LecturesController.cs",
-              "RelativeDocumentMoniker": "test\\Controllers\\LecturesController.cs",
-              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Controllers\\LecturesController.cs",
-              "RelativeToolTip": "test\\Controllers\\LecturesController.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAIwEMAAAAJAAAA",
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "test\\Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "test\\Models\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T20:27:47.029Z"
+              "WhenOpened": "2024-03-21T19:24:04.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "test\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "test\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:23:48.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LecturesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Controllers\\LecturesController.cs",
+              "RelativeDocumentMoniker": "test\\Controllers\\LecturesController.cs",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Controllers\\LecturesController.cs",
+              "RelativeToolTip": "test\\Controllers\\LecturesController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwC8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:27:47.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "test\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "test\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-17T20:10:52.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Program.cs",
               "RelativeDocumentMoniker": "test\\Program.cs",
-              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\test\\test\\Program.cs",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\Projekt\\Projekt\\test\\test\\Program.cs",
               "RelativeToolTip": "test\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T17:51:41.13Z"
+              "WhenOpened": "2024-03-17T17:51:41.13Z",
+              "EditorCaption": ""
             }
           ]
         }

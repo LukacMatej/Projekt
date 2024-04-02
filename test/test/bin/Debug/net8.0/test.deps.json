@@ -13,7 +13,8 @@
           "Microsoft.AspNetCore.Identity.UI": "8.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.3",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.3",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.2"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.2",
+          "UW.AspNetCore.Authentication.Shibboleth": "7.0.0"
         },
         "runtime": {
           "test.dll": {}
@@ -1970,6 +1971,25 @@
             "fileVersion": "7.0.22.51805"
           }
         }
+      },
+      "UW.AspNetCore.Authentication.Shibboleth/7.0.0": {
+        "dependencies": {
+          "UW.Shibboleth": "6.0.2"
+        },
+        "runtime": {
+          "lib/net6.0/UW.AspNetCore.Authentication.Shibboleth.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "UW.Shibboleth/6.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/UW.Shibboleth.dll": {
+            "assemblyVersion": "6.0.2.0",
+            "fileVersion": "6.0.2.0"
+          }
+        }
       }
     }
   },
@@ -3154,6 +3174,20 @@
       "sha512": "sha512-bR4qdCmssMMbo9Fatci49An5B1UaVJZHKNq70PRgzoLYIlitb8Tj7ns/Xt5Pz1CkERiTjcVBDU2y1AVrPBYkaw==",
       "path": "system.windows.extensions/7.0.0",
       "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
+    },
+    "UW.AspNetCore.Authentication.Shibboleth/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cmKEax/oiyft3AZvA/ZScW7KFFWp7Z2Vr3Hjcx7wG1LuR+XzROzZ0cU1sy9EOR274+0Jrqd0EOxAd5i92dtA+A==",
+      "path": "uw.aspnetcore.authentication.shibboleth/7.0.0",
+      "hashPath": "uw.aspnetcore.authentication.shibboleth.7.0.0.nupkg.sha512"
+    },
+    "UW.Shibboleth/6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qXS9Ab5Es/XDktp2gMrvi0VcTVn2wXV1rcSQxC1icyQsBshdI/ySFd/5KY/0KZ3vcR/xm3KYmNnWPkdtvS9cmQ==",
+      "path": "uw.shibboleth/6.0.2",
+      "hashPath": "uw.shibboleth.6.0.2.nupkg.sha512"
     }
   }
 }

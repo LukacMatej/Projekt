@@ -45,7 +45,7 @@ namespace test.Controllers
         }
 
         // GET: Lectures/Create
-        [Authorize]
+        [Authorize(Roles = "Lecturer")]
         public IActionResult Create()
         {
             return View();
